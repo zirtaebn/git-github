@@ -1,0 +1,22 @@
+Principais comandos e suas funções:
+
+Pegando e criando projetos:
+- git init -> cria um repositório git vazio ou reinicializa um já existente.
+- git clone -> clona um repositório em um novo diretório. 
+
+Tirando um snapshot bpasico:
+-git add -> adiciona o conteúdo do arquivo ao índice.
+-git status -> mostra o status da árvore de trabalho.
+-git commit -> grava as mudanças feitas no repositório.
+
+
+Branching and Merging:
+-git branch -> lista, cria ou exclui branches.
+-git checkout -> alterna entre as branches ou restaure os arquivos da árvore de trabalho.
+-git switch - troca de branches
+
+Compartilhando e atualizando projetos:
+-git pull -> busca e se integra a outro repositório ou branch local.
+-git push -> atualiza as refs remotas junto com os objetos associados a ela.
+-git-remote -> gerencia o conjunto dos repositórios monitorados
+
